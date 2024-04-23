@@ -1,11 +1,9 @@
 ![Banner](bannerjavierlobato2.png)
 <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3eHA5azQyYTZwYXFvOWhhb25sZ2t0Y3U4MjR5c2t2ancxY3ozdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/neDAXZ09eh8whQuMzs/giphy.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Javier Lobato</h1>
-
-h
-
-
+<br>
+<h1 align="center">Welcome to my GitHub</h1>
+<br>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=javierlobato&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
