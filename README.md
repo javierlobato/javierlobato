@@ -1,24 +1,41 @@
 ![Banner](bannerjavierlobato2.png)
-<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3eHA5azQyYTZwYXFvOWhhb25sZ2t0Y3U4MjR5c2t2ancxY3ozdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/neDAXZ09eh8whQuMzs/giphy.gif" width="21%" style="display:inline;">
+<div style="display: flex; align-items: center;">
+    <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3eHA5azQyYTZwYXFvOWhhb25sZ2t0Y3U4MjR5c2t2ancxY3ozdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/neDAXZ09eh8whQuMzs/giphy.gif" width="21%" style="display:inline;">
 
+  <h1 align="center";">Welcome to my GitHub</h1>
+  
+</div>
 <br>
-<h1 align="center">Welcome to my GitHub</h1>
 <br>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=javierlobato&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
+
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<h2 align="left">Skills:</h2>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
+
 
 <br>
 
