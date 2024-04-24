@@ -48,6 +48,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
+![tops languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlobato&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  
 ![Javier lobato GitHub stats](https://github-readme-stats.vercel.app/api?username=javierlobato\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
