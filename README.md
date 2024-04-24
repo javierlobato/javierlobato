@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center;">
     <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3eHA5azQyYTZwYXFvOWhhb25sZ2t0Y3U4MjR5c2t2ancxY3ozdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/neDAXZ09eh8whQuMzs/giphy.gif" width="21%" style="display:inline;">
 
-<h1 align="center" style="border-bottom: none;">Welcome to my GitHub</h1>
+<span align="center" style="font-size: 180%;"> Welcome to my GitHub</span>
     
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
